@@ -1557,15 +1557,14 @@ section {
 
 .contacto .info{
   display: flex;
-  justify-content: center;
+  justify-content: space-evenly;
   align-items: center;
-  align-content: center;
   align-self: center;
   flex-wrap: wrap;
 }
 
 .info .todo{
-  padding: 1rem;
+  margin-top: 40px;
   width: 400px;
 }
 
