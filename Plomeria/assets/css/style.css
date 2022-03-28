@@ -1568,3 +1568,12 @@ section {
   width: 300px;
 }
 
+.corrijiendo{
+  display: flex;
+  flex-wrap: wrap;
+
+}
+
+.corrijiendo i{
+  margin-bottom: 10px;
+}
