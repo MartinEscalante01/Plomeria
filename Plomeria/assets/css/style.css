@@ -112,11 +112,15 @@ h1, h2, h3, h4, h5, h6 {
 #header .logo h1 {
   font-size: 28px;
   margin: 0;
-  padding: 11px 0;
+  padding: 0px 0;
   line-height: 1;
   font-weight: 700;
   letter-spacing: 1px;
   font-family: "Poppins", sans-serif;
+  text-align: center;
+}
+#header .logo span{
+  color: white;
 }
 #header .logo h1 a, #header .logo h1 a:hover {
   color: #fff;
@@ -1576,4 +1580,8 @@ section {
 
 .corrijiendo i{
   margin-bottom: 10px;
+}
+
+.tel{
+  font-size:17px !important;
 }
